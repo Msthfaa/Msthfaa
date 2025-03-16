@@ -48,11 +48,5 @@ Hi there! I'm a passionate developer who loves building cool stuff and learning 
 
 ---
 
-### 🎵 Now Playing
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YourSpotifyID&cover_image=true&theme=default" />
-</p>
-
----
 
 🎉 Thanks for visiting my profile! Let's build something amazing together! 🚀
