@@ -7,7 +7,6 @@
 ### 🌟 About Me
 Hi there! I'm a passionate developer who loves building cool stuff and learning new technologies. 🚀
 
-- 🔭 Currently working on **LocaList** 📍
 - 🌱 Learning **React, Node.js, and Tailwind CSS**
 - 💬 Ask me about **Web Development, JavaScript, and Open Source**
 - ⚡ Fun fact: I love ☕ and late-night coding sessions! 🌙
