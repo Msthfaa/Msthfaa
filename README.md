@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" alt="Msthfaa - Web Developer" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Msthfaa/Msthfaa/main/hero-dark.svg">
+  <img src="https://raw.githubusercontent.com/Msthfaa/Msthfaa/main/hero-light.svg" alt="Msthfaa - Web Developer" width="100%">
 </picture>
 
 <picture>
@@ -13,8 +13,8 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <img src="assets/divider-light.svg" alt="" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Msthfaa/Msthfaa/main/divider-dark.svg">
+  <img src="https://raw.githubusercontent.com/Msthfaa/Msthfaa/main/divider-light.svg" alt="" width="100%">
 </picture>
 
 ## About
@@ -30,8 +30,8 @@ Saya web developer yang senang membangun hal-hal kecil yang berguna dan terus be
 | **Bahan bakar** | Kopi dan sesi coding larut malam |
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <img src="assets/divider-light.svg" alt="" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Msthfaa/Msthfaa/main/divider-dark.svg">
+  <img src="https://raw.githubusercontent.com/Msthfaa/Msthfaa/main/divider-light.svg" alt="" width="100%">
 </picture>
 
 ## Tech Stack
@@ -52,8 +52,8 @@ Saya web developer yang senang membangun hal-hal kecil yang berguna dan terus be
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <img src="assets/divider-light.svg" alt="" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Msthfaa/Msthfaa/main/divider-dark.svg">
+  <img src="https://raw.githubusercontent.com/Msthfaa/Msthfaa/main/divider-light.svg" alt="" width="100%">
 </picture>
 
 ## GitHub Stats
@@ -78,8 +78,8 @@ Saya web developer yang senang membangun hal-hal kecil yang berguna dan terus be
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <img src="assets/divider-light.svg" alt="" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Msthfaa/Msthfaa/main/divider-dark.svg">
+  <img src="https://raw.githubusercontent.com/Msthfaa/Msthfaa/main/divider-light.svg" alt="" width="100%">
 </picture>
 
 ## Let's Connect
